@@ -13,8 +13,8 @@ The platform uses AWS cloud services to provide scalability, reliability, and be
 
 2. TEAM MEMBERS
 
-1. Sahasra Kakunuru – 2520030222
-2. Khyati Karri – 2520030279
+ Sahasra Kakunuru – 2520030222
+ Khyati Karri – 2520030279
 
 Project Guide: Dr. S. Vinay Kumar
 
